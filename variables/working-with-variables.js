@@ -13,4 +13,4 @@ admin = name;
 // 4. Show the value of admin using alert (must output "John").
 
 alert(admin);
-console.log(admin);
+// console.log(admin);
